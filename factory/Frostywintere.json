@@ -1,0 +1,9 @@
+{
+	"name": "Frostywintere",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75966622-c995-43d3-af8e-cb85e707e631",
+		"tenantId": "325f199d-da72-4fd6-aaa6-1cca216ef6f8"
+	}
+}
